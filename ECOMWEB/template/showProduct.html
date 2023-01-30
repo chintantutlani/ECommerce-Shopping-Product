@@ -14,7 +14,7 @@
         {% for product in products %}
 
         <div class="col-md-4">
-            <div class="card m-3 p-2" style="width: 18rem; height: 25rem;  border-radius: 25px 15px;">
+            <div class="card m-3 p-2" style="width: 18rem; height: 30rem;  border-radius: 25px 15px;">
                 <img src="{{ product.image.url }}" style="height: 20vw; width: 150px;object-fit: cover; "
                      class="card-img-top" alt="...">
                 <div class="card-body">
@@ -46,8 +46,7 @@
             {% for category in categories %}
 
             <li class="list-group-item">
-                <a class="btn btn-primary" href="{% url 'showProducts' %}?category={{ category.name }}">{{ category.name
-                    }}</a>
+                <a class="btn btn-primary" href="{% url 'showProducts' %}?category={{ category.name }}">{{ category.name}}</a>
             </li>
 
 

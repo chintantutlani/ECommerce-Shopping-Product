@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e2c3b05-81b7-494d-9258-ef133fe7e415" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/website/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/.idea/website.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/product/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/product/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/product/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/product/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/product/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/product/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/product/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/product/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/website/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/website/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/website/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/website/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/website/wsgi.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2L2iCuXZenQUnwZixWEOB73wErr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e2c3b05-81b7-494d-9258-ef133fe7e415" name="Changes" comment="" />
+      <created>1675075461410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675075461410</updated>
+    </task>
+    <servers />
+  </component>
+</project>
