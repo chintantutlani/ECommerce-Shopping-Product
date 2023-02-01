@@ -1,0 +1,26 @@
+[
+  {
+    "model": "product.Product",
+    "pk": 1,
+    "fields": {
+      "image": "chintan.jpeg",
+      "name": "chintan",
+      "description": "tyring fixtures",
+      "is_published": true,
+      "category": 2,
+      "price": 666
+    }
+  },
+  {
+    "model": "product.Product",
+    "pk": 2,
+    "fields": {
+      "image": "chintan2.jpeg",
+      "name": "chintan2",
+      "description": "tyring2 fixtures2",
+      "is_published": true,
+      "category": 2,
+      "price": 777
+    }
+  }
+]
